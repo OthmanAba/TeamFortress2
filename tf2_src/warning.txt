@@ -1,0 +1,6 @@
+Some files were compressed to comply with GitHub's upload limit
+tf2_src/lib/common/x64/2015/debug/cryptlib.lib
+tf2_src/tools/runtime/linux/steamrt_scout_amd64.tar.xz
+tf2_src/lib/public/linux32/libcef.so.dbg
+tf2_src/tools/runtime/linux/steamrt_scout_i386.tar.xz
+
